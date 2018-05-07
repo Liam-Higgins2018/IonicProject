@@ -1,2 +1,1 @@
 "# MobileAppProject" 
-"# IonicProject" 
